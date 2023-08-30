@@ -1,11 +1,11 @@
 {
   "images" : [
     {
+      "filename" : "LoginMountainFront.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "LoginMountainFront.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
