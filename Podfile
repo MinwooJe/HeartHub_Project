@@ -9,7 +9,6 @@ target 'HeartHub' do
 pod 'FSCalendar'
 pod 'SnapKit'
 pod 'Then'
-pod 'YPImagePicker'
 
 
 post_install do |installer|
